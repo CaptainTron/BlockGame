@@ -1,3 +1,3 @@
 # BlockGameusingjavascipt
-This is my block game build using javascript.
-Here I've Implemented Javascript Classes, Constructor, Methods.
+This is my block game build using javascript.  
+Here I've Implemented Javascript Classes, Constructor, Methods, Event handling with OOPs approach.
